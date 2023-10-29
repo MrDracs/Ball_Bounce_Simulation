@@ -1,0 +1,5 @@
+pyinstaller --onefile --icon=path/icon.ico filename.py
+
+put the exe in same folder as the data files (folder)
+
+icon of the app will show up if you copy paste the generated exe in same folder again
